@@ -31,4 +31,4 @@ jobs:
       - run: |
           flutter pub get
           flutter build apk -t lib/app_market.dart
-        working-directory: ./app_market
+        working-directory: ./app_market/example
