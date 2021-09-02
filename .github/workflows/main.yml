@@ -28,7 +28,8 @@ jobs:
       - uses: subosito/flutter-action@v1
         with:
           flutter-version: '1.22.6'
-      - run: cd app_market
-      - run: flutter pub get
-      - run: flutter build apk
-      - run: flutter build appbundle
+      - run: ｜
+          cd app_market
+          flutter pub get
+          flutter build apk
+          flutter build appbundle
