@@ -36,7 +36,7 @@ jobs:
         uses: svenstaro/upload-release-action@v1-release
         with:
           repo_token: ${{ secrets.GITHUB_TOKEN }}
-          file: build/app/outputs/flutter-apk/app-release.apk
+          file: ./app_market/example/build/app/outputs/flutter-apk/app-release.apk
           tag: ${{ github.ref }}
           asset_name: app_market.apk
           overwrite: true
