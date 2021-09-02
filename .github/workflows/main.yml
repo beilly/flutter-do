@@ -38,4 +38,5 @@ jobs:
           repo_token: ${{ secrets.GITHUB_TOKEN }}
           file: build/app/outputs/flutter-apk/app-release.apk
           tag: ${{ github.ref }}
+          asset_name: app_market.apk
           overwrite: true
