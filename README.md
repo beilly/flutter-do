@@ -25,7 +25,7 @@
 
 
 ### Flutter App升级
-地址：[https://github.com/781238222/flutter-do/tree/master/flutter_upgrade](https://github.com/781238222/flutter-do/tree/master/flutter_upgrade)
+地址：[https://github.com/LaoMengFlutter/flutter-app-upgrade](https://github.com/LaoMengFlutter/flutter-app-upgrade)
 
 <img src="https://github.com/781238222/imgs/raw/master/flutter_upgrade/app_upgrade_3.png" height="300em"/><img src="https://github.com/781238222/imgs/raw/master/flutter_upgrade/app_upgrade_4.gif" height="300em"/><img src="https://github.com/781238222/imgs/raw/master/flutter_upgrade/app_upgrade_5.png" height="300em"/><img src="https://github.com/781238222/imgs/raw/master/flutter_upgrade/app_upgrade_6.png" height="300em"/><img src="https://github.com/781238222/imgs/raw/master/flutter_upgrade/app_upgrade_7.png" height="300em"/>
 
@@ -68,7 +68,7 @@
 
 欢迎大家加入 **【Flutter 交流群】**，搜索微信号：**laomengit**，或者扫描下方二维码：
 
-![](img/WechatIMG127.jpeg)
+![](img/laomengflutter.jpeg)
 
 
 
